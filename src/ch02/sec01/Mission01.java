@@ -2,7 +2,7 @@ package ch02.sec01;
 
 public class Mission01 {
     // 메인 메소드 작성
-    public static void main(String[] angs) {
+    public static void main(String[] args) {
         int num1 = 11;
         int num2 = 22;
 
