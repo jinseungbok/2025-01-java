@@ -5,6 +5,7 @@ public class VariableUseExample {
         int hour = 3;
         int minute = 5;
         System.out.println(hour + "시간 " + minute + "분");
+        System.out.println("3시간 5분");
         // (1) hour + "시간"
         // (2) 3 + "시간"
         // (3) "3" + "시간" (정수형이 문자열로 변환)

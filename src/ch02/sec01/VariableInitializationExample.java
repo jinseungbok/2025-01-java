@@ -5,7 +5,7 @@ public class VariableInitializationExample {
         int value; // 변수 선언(변수명 당 최초 한번), 선언을 할 때 데이터 타입 지정(int는 정수 타입)
         // 변수 사용 방법 2가지: 읽기(read), 쓰기(write)
         // 우측에 =가 있으면 쓰기, 없으면 읽기
-        value = 10; //
+        value = 10; // 쓰기 = 는 대입연산자 ( = 기준으로 우측에 있는 값이 복사가 되어 변수에 들어감)
         int value2 = 20; //
         /*
         에러(예외) 종류 크게 2가지
